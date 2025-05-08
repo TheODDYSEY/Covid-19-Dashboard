@@ -8,10 +8,17 @@
 
 An interactive dashboard tracking global COVID-19 trends including cases, deaths, recoveries, and vaccinations across countries and time periods. Powered by real-time data from Our World in Data's comprehensive COVID-19 dataset.
 
+<div align="center">
+  <a href="https://theoddysey-covid-19-dashboard-covid19-dashboard-dvva4w.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DASHBOARD-%234285F4.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard" />
+  </a>
+</div>
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
+- [Live Demo](#-live-demo)
 - [Project Structure](#-project-structure)
 - [Data Source](#-data-source)
 - [Installation](#-installation)
@@ -44,6 +51,18 @@ This project aims to make complex pandemic data accessible and understandable th
 - **Responsive Design**: Optimized for desktop and mobile devices
 - **Real-time Data**: Automatic updates from Our World in Data
 - **Detailed Analysis**: Comprehensive statistical analysis in Jupyter notebook
+
+## 🔗 Live Demo
+
+The COVID-19 Global Data Tracker is deployed and accessible online. You can view and interact with the live dashboard without any installation:
+
+<div align="center">
+  <a href="https://theoddysey-covid-19-dashboard-covid19-dashboard-dvva4w.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DASHBOARD-%234285F4.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard" />
+  </a>
+</div>
+
+The live version is hosted on Streamlit Cloud and includes all the features of the local version. It automatically updates with the latest COVID-19 data from Our World in Data.
 
 ## 📁 Project Structure
 
